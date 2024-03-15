@@ -23,19 +23,19 @@
 # 4. Phases of the project
 
 
- # 4.1. Data Exploration
+  # 4.1. Data Exploration
  
   * Checked the dataset's structure and removed any duplicate records.
   * Looked for missing values and visualized them using a heatmap.
   * Explored unique values and distributions of different columns.
     
- # 4.2. Data Cleaning
+  # 4.2. Data Cleaning
   
   * Filtered and sorted data to extract relevant information.
   * Created new columns and converted data types.
   * Dealt with missing values and manipulated strings and dates.
     
- # 4.3. Data Analysis and Visualization
+  # 4.3. Data Analysis and Visualization
   
   * Answered questions about the dataset using Python commands.
   * Visualized insights using graphs and charts.
