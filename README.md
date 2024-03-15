@@ -2,7 +2,7 @@
 
 ![Netflix](https://github.com/hemantrattey/Netflix_Analysis/blob/master/assets/Netflix.jpg)
 
-<p align="center"> Photo by <a href="https://unsplash.com/@molliesivaram?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"> </p>
+<p align="center">  <a href="https://unsplash.com/@molliesivaram?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"> </p>
 
 ## __Table of Contents__ ##
 <ul>
